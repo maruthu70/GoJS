@@ -1,0 +1,35 @@
+Page 1:
+	Citi Unsecured Business loan booking for Singapore market becomes easy with 5 Steps,
+Page 2:
+	The customer comes to Citibank and approach Sales Representative for Loan. Representatives will begin from this screen to collect data from customers
+Page 3:
+	Loan Eligibility is calculated through loan calculator screen which has 14 input elements 
+Page 4:
+	On Click of Calculate button, Field validation and evaluation will be initiated.
+Page 5:
+	Based on the  Rules defined, The eligibility would calculated and output will be shown
+Page 6:
+	If customer is eligible for loan, Then RM goes to site inspection and  fills in all the details in RM report screen through iPad.
+Page 7:
+	RM Screen captures the different details like background of borrower, Loan Application, Borrower's Business 
+Page 8:
+	RM Call Report has capability to upload the documents and stored into Documentum
+Page 9:
+	Upgrading System will have API capabilities for Pulling data from data providers.
+Page 10:
+	System is able to generate MIS report for tracking of different loan status by management.
+Page 11:
+	Once Details are collected, Sytem is move to RAC where credit scoring is done based on obligor and facility rating.
+Page 12:
+	The System Shows Credit Summary view  with different sections like CRE UBL and more details.
+Page 13:
+	Each sections in Credit summary view are showing in different ways like table, list based on requirements.
+Page 14:
+	Once background check is done , Application moves to  Approval Queue and it will be acted by credit Ops.
+Page 15:
+	The loan get booked and disbursed with seamless action. 
+
+Thank you!!
+
+	
+	
